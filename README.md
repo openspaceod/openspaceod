@@ -2,4 +2,4 @@
 
 ## Coded by http://razumnyak.com/
 
-Пока сайт в разработке , быренько сделали страницу-затычку)))
+### Fonts : Fjalla One , Open Sans
